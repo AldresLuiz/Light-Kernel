@@ -1,0 +1,4 @@
+.vscode
+build
+out
+target/boot/kernel.bin
